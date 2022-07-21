@@ -9,7 +9,12 @@ I'm a Software automation Engineer
 
 ## About me 
 - I have one year experience
-- I´m lead   
+- I´m lead  
+
+### Tools 
+- Java
+- TestNG
+- Intellij
 
 
 

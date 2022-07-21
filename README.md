@@ -2,7 +2,7 @@
 The project is for the automation training
 
 # Hi I'm Sandy 
-I'm an Software automation Engineer
+I'm a Software automation Engineer
 
 - This project is Selenium
 - This project is for the training 
